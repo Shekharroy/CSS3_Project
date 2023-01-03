@@ -18,3 +18,9 @@ HTML EDITOR
 3. VS code
 4. Sublime Text Editor
 5. Dreamweaver
+
+Question: How many ways to use CSS in HTML
+Ans:- 
+1. Inline
+2. Inpage 
+3. External
