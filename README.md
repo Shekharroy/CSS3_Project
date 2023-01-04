@@ -24,3 +24,15 @@ Ans:-
 1. Inline
 2. Inpage 
 3. External
+
+Type of Border style:
+1. Solid
+2. Dotted
+3. Dashed
+4. Double
+5. Groove
+6. Ridge
+7. Inset
+8. Outset
+9. None
+10. Mix
