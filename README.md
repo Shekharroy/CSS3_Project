@@ -19,11 +19,12 @@ HTML EDITOR
 4. Sublime Text Editor
 5. Dreamweaver
 
-Question: How many ways to use CSS in HTML
+Question: How many ways to use CSS in HTML.
 Ans:- 
 1. Inline
 2. Inpage 
 3. External
+<<<<<<< HEAD
 
 Type of Border style:
 1. Solid
@@ -36,3 +37,5 @@ Type of Border style:
 8. Outset
 9. None
 10. Mix
+=======
+>>>>>>> bb872595e91b482a741c5103c1c0cec39cfd2749
